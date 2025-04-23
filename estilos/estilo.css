@@ -4,8 +4,8 @@ body{
     font-size: 16px; color: rgb(165, 42, 42);
     font-weight: 400px;
     text-align: center;
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
 
 ol{
@@ -59,7 +59,7 @@ nav a{
     color: rgb(250, 171, 171);
     font-weight: bold;
     margin-right: 15px;
-
+    
 }
 
 header, nav > body{
